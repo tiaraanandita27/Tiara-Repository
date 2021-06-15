@@ -1,0 +1,99 @@
+# depslib dependency file v1.0
+1588492300 source:d:\tubes\main.cpp
+	<iostream>
+	<conio.h>
+	<istream>
+	"Multi.h"
+
+1588490302 d:\tubes\multi.h
+	<iostream>
+	<conio.h>
+	<string>
+
+1588493162 source:d:\tubes\multi.cpp
+	"Multi.h"
+
+1588481093 source:d:\kuliah\semester 2\algoritma struktur data\tubes\tubes\main.cpp
+	<iostream>
+	<conio.h>
+	<istream>
+	"Multi.h"
+
+1588479013 d:\kuliah\semester 2\algoritma struktur data\tubes\tubes\multi.h
+	<iostream>
+	<conio.h>
+	<string>
+
+1588479013 source:d:\kuliah\semester 2\algoritma struktur data\tubes\tubes\multi.cpp
+	"Multi.h"
+
+1588494041 source:d:\kuliah\semester 2\algoritma struktur data\tubes\tubes (3)\main.cpp
+	<iostream>
+	<conio.h>
+	<istream>
+	"Multi.h"
+
+1588490304 d:\kuliah\semester 2\algoritma struktur data\tubes\tubes (3)\multi.h
+	<iostream>
+	<conio.h>
+	<string>
+
+1588494403 source:d:\kuliah\semester 2\algoritma struktur data\tubes\tubes (3)\multi.cpp
+	"Multi.h"
+
+1588518056 source:d:\tubes (3)\multi.cpp
+	"Multi.h"
+
+1588515801 d:\tubes (3)\multi.h
+	<iostream>
+	<conio.h>
+	<string>
+
+1588517705 source:d:\tubes (3)\main.cpp
+	<iostream>
+	<conio.h>
+	<istream>
+	"Multi.h"
+
+1588517706 source:d:\kuliah\semester 2\algoritma struktur data\tubes\tubes (7)\main.cpp
+	<iostream>
+	<conio.h>
+	<istream>
+	"Multi.h"
+
+1588521709 d:\kuliah\semester 2\algoritma struktur data\tubes\tubes (7)\multi.h
+	<iostream>
+	<conio.h>
+	<string>
+
+1588521696 source:d:\kuliah\semester 2\algoritma struktur data\tubes\tubes (7)\multi.cpp
+	"Multi.h"
+
+1588517706 source:d:\kel08_it4302\main.cpp
+	<iostream>
+	<conio.h>
+	<istream>
+	"Multi.h"
+
+1588521710 d:\kel08_it4302\multi.h
+	<iostream>
+	<conio.h>
+	<string>
+
+1588521698 source:d:\kel08_it4302\multi.cpp
+	"Multi.h"
+
+1588517706 source:d:\tugas besar struktur data tiarasalma\main.cpp
+	<iostream>
+	<conio.h>
+	<istream>
+	"Multi.h"
+
+1588521710 d:\tugas besar struktur data tiarasalma\multi.h
+	<iostream>
+	<conio.h>
+	<string>
+
+1588521698 source:d:\tugas besar struktur data tiarasalma\multi.cpp
+	"Multi.h"
+
